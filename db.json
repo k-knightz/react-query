@@ -1,0 +1,34 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "actor": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "superman",
+      "actor": "Clark kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "actor": "Gal Gadot"
+    },
+    {
+      "name": "Iron Man",
+      "actor": " Robert John Downey",
+      "id": 5
+    },
+    {
+      "name": "Captain America",
+      "actor": "Chris Evans",
+      "id": 6
+    },
+    {
+      "name": "tppknightz",
+      "actor": "tppknightz",
+      "id": 7
+    }
+  ]
+}
